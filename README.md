@@ -1,4 +1,4 @@
-<h5 align="left">Hi, I am Jixu (A Full-Stack Developer)<br>🌱 I’m currently learning Java<br>
+<h5 align="left">Hi, I am Anu (A Full-Stack Developer)<br>🌱 I’m currently learning Java<br>
 <br>••••Technical Skills••••<br><br>•Programming Languages:<br>Python, Java, JavaScript, TypeScript<br><br>•Web Development:<br>HTML5, CSS3, React, Node.js, Express.js<br><br>•Databases:<br>MySQL, PostgreSQL, MongoDB<br><br>•Tools & Technologies:<br>Git, GitHub, Docker, Linux, VS Code<br><br>•Other Skills:<br>Data Structures & Algorithms, Object-Oriented Programming, System Design</h5>
 
 ###
